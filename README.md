@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi! I'm Novinity
+I'm a 15 year old indie game developer.
+
+I would really appreciate if you supported me! 🫶
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E6SGKTN)
 
 <!--
 **Novinity/novinity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
